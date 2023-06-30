@@ -1,0 +1,11 @@
+{
+	x: 0.0d,
+	y: 0.5d,
+	dependency_requirement: "one_completed",
+	size: 1.5d,
+	tasks: [{
+		uid: "152a9444",
+		type: "botania_mana",
+		value: 1000L
+	}]
+}

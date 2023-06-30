@@ -1,0 +1,3 @@
+[submodule "Craft.zs"]
+	path = Craft.zs
+	url = https://github.com/Krutoy242/Craft.zs.git
