@@ -1,6 +1,6 @@
 {
   "core": {
-    "defaultSize": 16,
+    "defaultSize": 32,
     "minSize": 1,
     "scale": 6,
     "exponent": 2,
