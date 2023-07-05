@@ -1,0 +1,3 @@
+[submodule "scripts/craft"]
+	path = scripts/craft
+	url = https://github.com/Krutoy242/Craft.zs
