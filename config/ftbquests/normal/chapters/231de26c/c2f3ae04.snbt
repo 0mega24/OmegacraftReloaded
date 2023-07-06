@@ -1,9 +1,0 @@
-{
-	x: 1.0d,
-	y: 0.5d,
-	tasks: [{
-		uid: "7b42ebf9",
-		type: "fluid",
-		fluid: "ec.internal.lutetium"
-	}]
-}
